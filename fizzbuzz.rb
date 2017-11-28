@@ -1,7 +1,7 @@
 def fizzbuzz(int)
   if int % 3 == true
     print "Fizz"
-  elsif
+  if
     int % 5 == true
     print "Buzz"
   end
