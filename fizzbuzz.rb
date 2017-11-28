@@ -4,5 +4,4 @@ def fizzbuzz(int)
   elsif
     int % 5 == true
     print "Buzz"
-
   end
